@@ -1,3 +1,5 @@
-# Dave Tapley
+# Info
 
-Here is my page.
+I live in **Phoenix, Arizona, USA**.
+
+You can find my resume [here](dave-tapley.pdf).
