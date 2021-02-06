@@ -2,4 +2,4 @@
 
 I live in **Phoenix, Arizona, USA**.
 
-You can find my resume [here](assets/dave-tapley.pdf).
+You can find my GitHub [here](https://github.com/davetapley).
