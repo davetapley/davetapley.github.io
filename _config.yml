@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Dave Tapley"
 description: "Computer programmer and accidental hydrologist"
+include: [".well-known"]
+
